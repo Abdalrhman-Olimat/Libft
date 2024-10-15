@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to my Libft project! 🎉 Libft is a personal library of C functions designed to enhance standard library functionalities. This project serves as a foundational stepping stone for future projects in the 42 School curriculum, allowing for a deeper understanding of C programming, memory management, and the implementation of algorithms.
+Welcome to my `Libft` project! 🎉 Libft is a personal library of C functions designed to enhance standard library functionalities. This project serves as a foundational stepping stone for future projects in the 42 School curriculum, allowing for a deeper understanding of C programming, memory management, and the implementation of algorithms.
 ## Features
 - A collection of essential C functions including string manipulation, memory management, and more.
 - Improved understanding of C standard library functionalities.
@@ -15,44 +15,44 @@ Welcome to my Libft project! 🎉 Libft is a personal library of C functions des
 
 ### 1. Memory Manipulation
 
-- **ft_memset:** Sets a block of memory to a specific value.
-- **ft_bzero:** Zeros out a block of memory.
-- **ft_memcpy:** Copies a block of memory from one location to another.
-- **ft_memccpy:** Copies a block of memory up to a specific character.
-- **ft_memmove:** Moves a block of memory, handling overlaps correctly.
-- **ft_memchr:** Locates a character in a block of memory.
-- **ft_memcmp:** Compares two blocks of memory.
+- **`ft_memset`:** Sets a block of memory to a specific value.
+- **`ft_bzero`:** Zeros out a block of memory.
+- **`ft_memcpy`:** Copies a block of memory from one location to another.
+- **`ft_memccpy`:** Copies a block of memory up to a specific character.
+- **`ft_memmove`:** Moves a block of memory, handling overlaps correctly.
+- **`ft_memchr`:** Locates a character in a block of memory.
+- **`ft_memcmp`:** Compares two blocks of memory.
 
 ### 2. String Manipulation
 
-- **ft_strlen:** Calculates the length of a string.
-- **ft_strdup:** Duplicates a string.
-- **ft_strcpy:** Copies a string.
-- **ft_strncpy:** Copies a specific number of characters from a string.
-- **ft_strcat:** Concatenates two strings.
-- **ft_strncat:** Concatenates a specific number of characters from two strings.
-- **ft_strlcat:** Concatenates two strings, ensuring the result is null-terminated.
+- **`ft_strlen`:** Calculates the length of a string.
+- **`ft_strdup`:** Duplicates a string.
+- **`ft_strcpy`:** Copies a string.
+- **`ft_strncpy`:** Copies a specific number of characters from a string.
+- **`ft_strcat`:** Concatenates two strings.
+- **`ft_strncat`:** Concatenates a specific number of characters from two strings.
+- **`ft_strlcat`:** Concatenates two strings, ensuring the result is null-terminated.
 
 ### 3. Character Checks and Conversions
 
-- **ft_isalpha:** Checks if a character is an alphabetic letter.
-- **ft_isdigit:** Checks if a character is a digit.
-- **ft_isalnum:** Checks if a character is alphanumeric.
-- **ft_isascii:** Checks if a character is an ASCII character.
-- **ft_isprint:** Checks if a character is printable.
-- **ft_toupper:** Converts a character to uppercase.
-- **ft_tolower:** Converts a character to lowercase.
+- **`ft_isalpha`:** Checks if a character is an alphabetic letter.
+- **`ft_isdigit`:** Checks if a character is a digit.
+- **`ft_isalnum`:** Checks if a character is alphanumeric.
+- **`ft_isascii`:** Checks if a character is an ASCII character.
+- **`ft_isprint`:** Checks if a character is printable.
+- **`ft_toupper`:** Converts a character to uppercase.
+- **`ft_tolower`:** Converts a character to lowercase.
 
 ### 4. Additional Utility Functions
 
-- **ft_atoi:** Converts a string to an integer.
-- **ft_itoa:** Converts an integer to a string.
-- **ft_strchr:** Locates a character in a string.
-- **ft_strrchr:** Locates the last occurrence of a character in a string.
-- **ft_strstr:** Finds the first occurrence of a substring.
-- **ft_strnstr:** Finds the first occurrence of a substring within a specific number of characters.
-- **ft_strcmp:** Compares two strings.
-- **ft_strncmp:** Compares a specific number of characters from two strings.
+- **`ft_atoi`:** Converts a string to an integer.
+- **`ft_itoa`:** Converts an integer to a string.
+- **`ft_strchr`:** Locates a character in a string.
+- **`ft_strrchr`:** Locates the last occurrence of a character in a string.
+- **`ft_strstr`:** Finds the first occurrence of a substring.
+- **`ft_strnstr`:** Finds the first occurrence of a substring within a specific number of characters.
+- **`ft_strcmp`:** Compares two strings.
+- **`ft_strncmp`:** Compares a specific number of characters from two strings.
 
 ## Getting Started
 ### Installation
