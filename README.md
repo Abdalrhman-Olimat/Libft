@@ -6,6 +6,13 @@
 ## Introduction
 
 Welcome to my `Libft` project! 🎉 Libft is a personal library of C functions designed to enhance standard library functionalities. This project serves as a foundational stepping stone for future projects in the 42 School curriculum, allowing for a deeper understanding of C programming, memory management, and the implementation of algorithms.
+## Table of Contents
+- [Features](#features)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [Contact](#contact)
+
 ## Features
 - A collection of essential C functions including string manipulation, memory management, and more.
 - Improved understanding of C standard library functionalities.
@@ -71,7 +78,7 @@ Compile the library:
 ```c
 make
 ```
-### Usage
+## Usage
 Once the library is compiled, you can include it in your C projects by adding the following line to your source files:
 ```c
 #include "libft.h"
